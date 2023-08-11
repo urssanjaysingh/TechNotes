@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>techNotes Project</h1>
+  <h1>TechNotes Project</h1>
   <p>Welcome to the techNotes project repository! This application aims to provide a comprehensive note management system, catering to various user roles within an organization.</p>
   <a href="https://technotes-y30i.onrender.com/">
     <img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge" alt="Live Demo">
