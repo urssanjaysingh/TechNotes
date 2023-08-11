@@ -42,6 +42,8 @@ The techNotes project is a powerful note management system that facilitates effi
 This project utilizes the MERN stack (MongoDB, Express.js, React, Node.js) to create a robust and efficient application.
 
 ## Live Demo
-Check out the live demo of the project [here][![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://technotes-y30i.onrender.com/)
+Check out the live demo of the project [here](https://technotes-y30i.onrender.com/):
+
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge)](https://technotes-y30i.onrender.com/)
 
 
