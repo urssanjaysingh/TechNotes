@@ -44,5 +44,3 @@ This project utilizes the MERN stack (MongoDB, Express.js, React, Node.js) to cr
 ## Live Demo
 Check out the live demo of the project [here](https://technotes-y30i.onrender.com/).
 
-## Contributing
-Explain how others can contribute to your project.
